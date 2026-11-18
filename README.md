@@ -1,4 +1,6 @@
- My First Website
+FULL NAME : MANDAR SATISH MARBADE          URN :E25B032638       SECTION:B     SEMESTER: THIRD        SUBJECT:Git & GitHub     COURSE CODE:E0162B
+
+My First Website
 
 Project Description:
 This is a basic website created using HTML, CSS, and JavaScript. It demonstrates how these three technologies work together to create a simple and interactive webpage.
